@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Inter:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+  --color-primary: #003A70;
+  --color-primary-dark: #00264A;
+  --color-primary-light: #1B528A;
+  --color-secondary: #FFC84D;
+  --color-secondary-hover: #F2B938;
+  --color-secondary-dark: #D49B1E;
+  --color-accent: #FFC84D;
+  --font-heading: 'Be Vietnam Pro', sans-serif;
+  --font-body: 'Be Vietnam Pro', sans-serif;
+
+  --radius-base: 16px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 24px;
+  --radius-3xl: 32px;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: #ffffff;
+  color: #0f172a;
+  overflow-x: hidden;
+}
