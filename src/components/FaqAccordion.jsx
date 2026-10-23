@@ -14,7 +14,7 @@ export default function FaqAccordion({ data = {} }) {
     },
     {
       q: "Nếu tôi bận đi công tác hoặc có việc đột xuất thì có được học bù không?",
-      a: "Có! Bạn được quyền học bù miễn phí tại các lớp song song có cùng tiến đ��� bài học. Ngoài ra, tất cả các buổi học đều có video bài giảng quay lại chất lượng cao và tài liệu tóm tắt từ trợ giảng để bạn ôn tập bất cứ lúc nào."
+      a: "Có! Bạn được quyền học bù miễn phí tại các lớp song song có cùng tiến độ bài học. Ngoài ra, tất cả các buổi học đều có video bài giảng quay lại chất lượng cao và tài liệu tóm tắt từ trợ giảng để bạn ôn tập bất cứ lúc nào."
     },
     {
       q: "Chính sách cam kết đầu ra bằng văn bản hoạt động như thế nào?",

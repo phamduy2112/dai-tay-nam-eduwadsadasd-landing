@@ -3,7 +3,7 @@ import { CheckCircle2, ArrowRight, Sparkles, ShieldCheck, Users, Trophy } from '
 
 export default function HeroStandard({ data = {} }) {
   const badgeText = data.badgeText || "⭐ Top 1 Học Viện Ngoại Ngữ Ứng Dụng Thực Chiến";
-  const title = data.title || "Làm Chủ Tiếng Trung Giao Tiếp & & Thi Đạt HSK Sau 3 Tháng2qw";
+  const title = data.title || "Làm Chủ Tiếng Trung Giao Tiếp & Thi Đạt HSK Sau 3 Tháng";
   const subtitle = data.subtitle || "Phương pháp phản xạ đa giác quan độc quyền giúp người bận rộn nói lưu loát, tự tin phỏng vấn việc làm và du học mà không cần học vẹt.";
   const ctaPrimary = data.ctaPrimary || "Nhận Lộ Trình & Học Thử 0Đ";
   const ctaSecondary = data.ctaSecondary || "Xem Lịch Khai Giảng Mới Nhất";
